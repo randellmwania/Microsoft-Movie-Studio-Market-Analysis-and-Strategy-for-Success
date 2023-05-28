@@ -1,2 +1,0 @@
-im.zip filter=lfs diff=lfs merge=lfs -text
-zippedfiles.zip filter=lfs diff=lfs merge=lfs -text
