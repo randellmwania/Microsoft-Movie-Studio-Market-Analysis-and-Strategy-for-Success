@@ -73,15 +73,19 @@ Invest in high-rated movies:
  
 The analysis revealed a positive correlation between movie ratings and box office success. Microsoft should focus on producing and acquiring movies with higher average ratings. 
 This can be achieved by investing in talented filmmakers, compelling scripts, and quality production to ensure the movies resonate well with the audience. By prioritizing high-rated movies, Microsoft can increase its chances of achieving better box office performance and profitability.
+
 Expand international distribution: 
 
 The analysis showed that foreign gross has a significant impact on the overall box office success of movies. Microsoft should consider expanding its international distribution efforts to capitalize on the global market. 
 This can involve strategic partnerships with international distributors, localization of content to cater to specific regions, and targeted marketing campaigns to reach a wider audience. 
 By tapping into international markets, Microsoft can maximize its revenue potential and global presence.
+
 Optimize movie runtime: 
 
-The analysis revealed that the average runtime of movies has been decreasing over the years. Microsoft should carefully consider the optimal runtime of their movies based on audience preferences and market trends. 
-While shorter runtimes may cater to modern viewers' shorter attention spans, it's important to strike a balance between engaging storytelling and meeting audience expectations. By optimizing movie runtimes, Microsoft can deliver more captivating and well-paced movies that have a higher chance of resonating with the audience.
+The analysis revealed that the average runtime of movies has been decreasing over the years. 
+Microsoft should carefully consider the optimal runtime of their movies based on audience preferences and market trends. 
+While shorter runtimes may cater to modern viewers' shorter attention spans, it's important to strike a balance between engaging storytelling and meeting audience expectations. 
+By optimizing movie runtimes, Microsoft can deliver more captivating and well-paced movies that have a higher chance of resonating with the audience.
 
 
 
