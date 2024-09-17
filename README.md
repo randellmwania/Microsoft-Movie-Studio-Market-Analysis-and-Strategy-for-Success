@@ -1,5 +1,7 @@
 # Microsoft Movie Studio: Market Analysis and Strategy for Success
 
+![alt text](pexels-brunomassao-2443272.jpg)
+
 ## Project Overview
 
 The aim of this project is to analyze the factors contributing to the success of movies at the box office and provide actionable insights for Microsoft's newly established movie studio. Microsoft intends to enter the film industry but lacks expertise in movie production. Therefore, understanding the current trends and successful strategies in the movie industry is crucial for making informed decisions and determining the most suitable genres for their film projects.
@@ -20,6 +22,7 @@ The specific datasets used in the analysis are as follows:
 - `tn.movie_budgets.csv`: The Numbers dataset contains data on production budgets, release dates, domestic gross, and worldwide gross of movies.
 
 # Visualisations
+
 <img src="https://github.com/randellmwania/Microsoft-Movie-Studio-Market-Analysis-and-Strategy-for-Success/assets/48983461/dc0a94d7-29f6-40c4-9e80-6000588decae" width="400">
 <img src="https://github.com/randellmwania/Microsoft-Movie-Studio-Market-Analysis-and-Strategy-for-Success/assets/48983461/e0739486-9bf7-4fa8-8f20-7d2082d31c3b" width="400">
 <img src="https://github.com/randellmwania/Microsoft-Movie-Studio-Market-Analysis-and-Strategy-for-Success/assets/48983461/7ed816e3-fba5-4eb3-9826-ac4e56e9108a" width="400">
