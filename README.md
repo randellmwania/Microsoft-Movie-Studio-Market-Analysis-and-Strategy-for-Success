@@ -1,6 +1,6 @@
 # Microsoft Movie Studio: Market Analysis and Strategy for Success
 
-![alt text](pexels-brunomassao-2443272.jpg)
+![alt text](pexels-brunomassao-2443272-1.jpg)
 
 ## Project Overview
 
