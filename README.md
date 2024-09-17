@@ -1,27 +1,78 @@
 # Microsoft Movie Studio: Market Analysis and Strategy for Success
 
-![alt text](pexels-brunomassao-2443272-1.jpg)
+![Movie Studio Image](pexels-brunomassao-2443272-1.jpg)
+
+[![Python Version](https://img.shields.io/badge/python-3.10.11-blue.svg)](https://www.python.org/downloads/release/python-31011/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Data Description](#data-description)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Analysis and Findings](#analysis-and-findings)
+- [Recommendations](#recommendations)
+- [Visualizations](#visualizations)
+- [Conclusion](#conclusion)
+- [Future Work](#future-work)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Project Overview
 
-The aim of this project is to analyze the factors contributing to the success of movies at the box office and provide actionable insights for Microsoft's newly established movie studio. Microsoft intends to enter the film industry but lacks expertise in movie production. Therefore, understanding the current trends and successful strategies in the movie industry is crucial for making informed decisions and determining the most suitable genres for their film projects.
+This project conducts a comprehensive market analysis to guide Microsoft's entry into the film industry through its newly established movie studio. By analyzing box office trends and success factors, we aim to provide actionable insights for Microsoft's decision-making in film production.
 
 ## Business Problem
 
-With the rise of major corporations producing their own unique video content, Microsoft recognizes the opportunity to establish its own movie studio. However, lacking knowledge in the realm of filmmaking, Microsoft needs to gain insights into the types of films that are currently performing well at the box office. The objective is to analyze market trends and identify key factors contributing to movie success, ultimately guiding Microsoft in developing a successful strategy for their entry into the movie industry.
+Microsoft, recognizing the trend of major corporations producing unique video content, aims to establish its presence in the movie industry. However, lacking expertise in filmmaking, Microsoft needs to understand the types of films currently performing well at the box office to inform their production strategy.
 
 ## Data Description
 
-The project utilizes datasets from various sources, including Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers. The datasets provide information on IMDB ratings, gross revenues, production budgets, release dates, and other relevant metrics for movies in the United States and international markets.
+The analysis utilizes datasets from various sources:
 
-The specific datasets used in the analysis are as follows:
+- IMDB (`im.db` in `im.zip`): Contains IMDB ratings for US movies
+- Box Office Mojo (`bom.movie_gross.csv`): Provides gross revenues for US and foreign markets
+- TheMovieDB (`tmdb.movies.csv`): Offers data on domestic and international gross profits, production studios, and release years
+- The Numbers (`tn.movie_budgets.csv`): Contains information on production budgets, release dates, and worldwide gross
 
-- `im.db` (in `im.zip`): The IMDB dataset contains IMDB ratings for movies in the United States.
-- `bom.movie_gross.csv`: The Box Office Mojo dataset contains gross revenues for movies in the United States and foreign markets.
-- `tmdb.movies.csv`: The dataset provides information on domestic and international gross profits of movies, as well as the production studio name and release year.
-- `tn.movie_budgets.csv`: The Numbers dataset contains data on production budgets, release dates, domestic gross, and worldwide gross of movies.
+## Getting Started
 
-# Visualisations
+To run this project:
+
+1. Clone the repository
+2. Install required dependencies: `pip install pandas numpy matplotlib seaborn`
+3. Run the Jupyter notebook: `jupyter notebook Microsoft-Movie-Studio-Market-Analysis-and-Strategy-for-Success.ipynb`
+
+## Technologies Used
+
+- Python 3.10.11
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQLite3
+
+## Analysis and Findings
+
+Our analysis revealed:
+
+- A positive correlation between movie ratings and box office success
+- Significant impact of foreign gross on overall box office performance
+- A trend of decreasing average movie runtimes over the years
+- [Add other key findings from your analysis]
+
+## Recommendations
+
+Based on our analysis, we recommend Microsoft to:
+
+1. Invest in high-rated movies by focusing on quality scripts and production
+2. Expand international distribution to capitalize on foreign markets
+3. Optimize movie runtimes to align with current trends and audience preferences
+4. [Add any other key recommendations from your analysis]
+
+## Visualizations
 
 <img src="https://github.com/randellmwania/Microsoft-Movie-Studio-Market-Analysis-and-Strategy-for-Success/assets/48983461/dc0a94d7-29f6-40c4-9e80-6000588decae" width="400">
 <img src="https://github.com/randellmwania/Microsoft-Movie-Studio-Market-Analysis-and-Strategy-for-Success/assets/48983461/e0739486-9bf7-4fa8-8f20-7d2082d31c3b" width="400">
@@ -36,20 +87,22 @@ The specific datasets used in the analysis are as follows:
 <img src="https://github.com/randellmwania/Microsoft-Movie-Studio-Market-Analysis-and-Strategy-for-Success/assets/48983461/232204f0-b711-460b-9f70-65ed7db1369b" width="400">
 <img src="https://github.com/randellmwania/Microsoft-Movie-Studio-Market-Analysis-and-Strategy-for-Success/assets/48983461/c65152bb-9b9f-45a9-8449-5b428bda1654" width="400">
 
-## Analysis and Recommendations
-
-Through exploratory data analysis, this project aims to identify market trends and key factors influencing box office success. The analysis provides actionable insights and recommendations for Microsoft's movie studio strategy. The following recommendations are based on the findings:
-
-1. **Invest in high-rated movies:** The analysis reveals a positive correlation between movie ratings and box office success. Microsoft should prioritize producing and acquiring movies with higher average ratings. This can be achieved by investing in talented filmmakers, compelling scripts, and quality production to ensure audience appeal.
-
-2. **Expand international distribution:** The analysis shows that foreign gross significantly impacts overall box office success. Microsoft should consider expanding international distribution efforts through strategic partnerships with international distributors, content localization, and targeted marketing campaigns. This will allow Microsoft to tap into the global market and maximize revenue potential.
-
-3. **Optimize movie runtime:** The analysis indicates a decreasing trend in movie runtimes over the years. Microsoft should carefully consider the optimal runtime of their movies based on audience preferences and market trends. Striking a balance between engaging storytelling and meeting audience expectations is crucial. By optimizing movie runtimes, Microsoft can deliver captivating and well-paced movies that resonate with the audience.
-
-By following these recommendations, Microsoft can enhance its competitive position, increase the likelihood of achieving positive business outcomes, and establish a strong presence in the movie industry.
-
 ## Conclusion
 
-In conclusion, the project provides valuable insights into the current trends and success factors in the movie industry. By leveraging the analysis of market data and understanding audience preferences, Microsoft can make informed decisions and develop a successful strategy for its movie studio. The recommendations to invest in high-rated movies, expand international distribution, and optimize movie runtimes align with industry trends and can contribute to Microsoft's success in the film industry.
+By focusing on producing high-quality, well-rated movies, expanding international distribution, and optimizing runtimes, Microsoft can position itself strongly in the competitive film industry. These strategies align with current market trends and offer the best chance for success in Microsoft's new venture.
 
-The visualizations provided in the project showcase key findings and enhance the understanding of the analysis. Visual representations of data are effective tools for conveying information and patterns, enabling Microsoft's decision-makers to grasp the insights quickly. By leveraging these insights and recommendations, Microsoft can position itself strategically in the movie industry, leveraging its resources, and making informed decisions that align with audience preferences and market trends. With a well-informed market analysis and a solid strategy in place, Microsoft's movie studio has the potential to achieve significant success and establish itself as a prominent player in the entertainment industry.
+## Future Work
+
+- Analyze the impact of streaming platforms on traditional box office performance
+- Investigate the correlation between marketing budgets and movie success
+- Explore emerging genres and niche markets for potential opportunities
+
+## Contributing
+
+We welcome contributions to this project. Please fork the repository and submit a pull request with your proposed changes.
+
+## Contact
+
+Project maintained by [Your Name] - [randellmwania@gmail.com]
+
+GitHub: [@randellmwania](https://github.com/randellmwania)
