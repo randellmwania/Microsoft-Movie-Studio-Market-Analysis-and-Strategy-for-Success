@@ -103,6 +103,6 @@ We welcome contributions to this project. Please fork the repository and submit 
 
 ## Contact
 
-Project maintained by [Your Name] - [randellmwania@gmail.com]
+Project maintained by - [randellmwania@gmail.com]
 
 GitHub: [@randellmwania](https://github.com/randellmwania)
