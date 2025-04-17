@@ -61,7 +61,6 @@ Our analysis revealed:
 - A positive correlation between movie ratings and box office success
 - Significant impact of foreign gross on overall box office performance
 - A trend of decreasing average movie runtimes over the years
-- [Add other key findings from your analysis]
 
 ## Recommendations
 
@@ -70,7 +69,6 @@ Based on our analysis, we recommend Microsoft to:
 1. Invest in high-rated movies by focusing on quality scripts and production
 2. Expand international distribution to capitalize on foreign markets
 3. Optimize movie runtimes to align with current trends and audience preferences
-4. [Add any other key recommendations from your analysis]
 
 ## Visualizations
 
